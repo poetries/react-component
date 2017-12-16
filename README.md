@@ -1,4 +1,4 @@
-# react-lib
+# react-component
 > 工作中使用到的一些组件库收集
 
 - [moment-更方便格式化日期](http://momentjs.com/docs/) 
