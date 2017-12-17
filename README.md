@@ -9,15 +9,28 @@
 - [React表格](https://github.com/react-component/table)
 - [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table)
 - [React Input Number ](https://github.com/react-component/input-number)
-- [可以在输入框@用户名查询-editor-mention](https://github.com/react-component/editor-mention)
 - [react-selectable-extended](https://github.com/leopoldjoy/react-selectable-extended)
 
 日期
 ---
+> Date picker / time picker / datetime picker / date range picker
 
 - [React Calendar](https://github.com/react-component/calendar)
 - [time-picker](https://github.com/react-component/time-picker)
-
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker)
+- [rc-calendar](https://github.com/react-component/calendar)
+- [react-date-range](https://github.com/Adphorus/react-date-range)
+- [Flexible date picker](https://github.com/gpbl/react-day-picker)
+- [React Daterange Picker](https://onefinestay.github.io/react-daterange-picker/)
+- [React.js Yearly Calendar Component](https://github.com/BelkaLab/react-yearly-calendar)
+- [react-calendar](http://freiksenet.github.io/react-calendar/)
+- [input-moment](https://wangzuo.github.io/input-moment/)
+- [react-bootstrap-datetimepicker](http://dev.quri.com/react-bootstrap-datetimepicker/)
+- [昨天-最近七天-最近三十天选择](https://projects.skratchdot.com/react-bootstrap-daterangepicker/)
+- [react-big-calendar](http://intljusticemission.github.io/react-big-calendar/examples/index.html)
+- [react-date-select](https://jedwatson.github.io/react-date-select/)
+- [react-infinite-calendar](https://clauderic.github.io/react-infinite-calendar/#/basic-settings/basic-configuration?_k=dftcq8)
+- [react-dates](https://github.com/airbnb/react-dates)
 
 列表选择
 ---
@@ -28,6 +41,18 @@
 - [rc-select下拉选择](https://github.com/react-component/select)
 - [dropdown](https://github.com/react-component/dropdown)
 - [级联下拉选择](https://github.com/react-component/cascader)
+- [react-select-box](http://instructure-react.github.io/react-select-box/)
+- [react-aria-menubutton](https://davidtheclark.github.io/react-aria-menubutton/demo/)
+
+类型选择tags
+---
+
+- [输入某些tag来选择高亮](https://github.com/olahol/react-tagsinput#demo)
+- [react-autocomplete-input](https://github.com/yury-dymov/react-autocomplete-input)
+- [react-tokeninput](https://github.com/instructure-react/react-tokeninput)
+- [可以在输入框@用户名查询-editor-mention](https://github.com/react-component/editor-mention)
+- [react-tags)](https://github.com/prakhar1989/react-tags)
+
 
 消息提示
 ---
@@ -58,7 +83,9 @@ Photo / Image 图片处理
 - [React Photo Gallery](https://github.com/neptunian/react-photo-gallery)
 - [react-images](https://jossmac.github.io/react-images/#examples)
 - [react-avatar](https://github.com/Sitebase/react-avatar)
-
+- [react-avatar-editor](https://github.com/mosch/react-avatar-editor)
+- [react-image-crop](https://github.com/DominicTobias/react-image-crop)
+- [react-image-cropper](https://github.com/jerryshew/react-image-cropper)
 
 分页
 ---
@@ -139,6 +166,8 @@ Loader
 - [loading spinners](http://madscript.com/halogen/)
 - [react-progress-button](https://github.com/mathieudutour/react-progress-button)
 - [进度条](https://github.com/react-component/progress)
+- [react-lazyload](https://github.com/jasonslyvia/react-lazyload)
+
 
 图表
 ---
@@ -155,26 +184,67 @@ Audio / Video
 
 - [awesome-react-components#map](https://github.com/brillout/awesome-react-components#map)
 
-动画
+动画过渡
 ---
 
+- [mobile.ant.design--包含动效模板](mobile.ant.design)
 - [react队列动画](https://github.com/react-component/queue-anim)
 - [Animate One React Element](https://github.com/react-component/tween-one)
 - [anim react element easily ](https://github.com/react-component/animate)
 - [自定义的React Trigger，对某些事件触发](https://github.com/react-component/trigger)
 - [折叠展开/手风琴](https://github.com/react-component/collapse)
 - [React Transition Group-类似于jQuery的fade效果](https://reactcommunity.org/react-transition-group/)
-- [react-lazyload](https://github.com/jasonslyvia/react-lazyload)
+- [react-motion](https://github.com/chenglou/react-motion)
+- [react-transitive-number](https://github.com/Lapple/react-transitive-number)
+- [react-spark-scroll](http://gilbox.github.io/react-spark-scroll/examples/demo/demo.html)
+- [react-router-transition](https://github.com/maisano/react-router-transition)
+- [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines)
+- [react-flip-move](https://github.com/joshwcomeau/react-flip-move)
+- [data-driven-motion](https://tkh44.github.io/data-driven-motion/#/demos)
+- [react-web-animation](http://react-web-animation.surge.sh/animate-css)
+
+color-picker
+---
+
+- [颜色选择](https://github.com/react-component/color-picker)
+- [react-input-color](https://github.com/wangzuo/react-input-color)
+- [react-color](https://github.com/casesandberg/react-color)
+- [coloreact](https://elrumordelaluz.github.io/coloreact/)
+
+slider
+---
+
+- [react-slider 滑块](https://github.com/react-component/slider)
 
 
-其他
+评分
+---
+
+- [react-star-rating](https://github.com/cameronroe/react-star-rating)
+- [react星级评分](https://github.com/react-component/rate)
+
+拖拽
+---
+
+- [react-draggable](https://mzabriskie.github.io/react-draggable/example/)
+- [拖拽排序](https://github.com/bokuweb/react-sortable-pane)
+- [dropzone](https://react-dropzone.js.org/#proptypes)
+- [react-dragula](https://bevacqua.github.io/react-dragula/)
+- [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable)
+
+富文本编辑器
 ---
 
 - [可嵌入的编辑器核心部分](https://github.com/react-component/editor-core)
-- [颜色选择](https://github.com/react-component/color-picker)
-- [react-slider 滑块](https://github.com/react-component/slider)
-- [react星级评分](https://github.com/react-component/rate)
 - [react-mardown编辑器](https://rexxars.github.io/react-markdown/)
+- [react-md-editor](https://jedwatson.github.io/react-md-editor/)
+- [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor)
+- [react-quill](https://zenoamaro.github.io/react-quill/)
+- [react-ace](http://securingsincity.github.io/react-ace/)
+- [react-codemirror](https://jedwatson.github.io/react-codemirror/)
+- [face-book-draftjs](https://draftjs.org/)
+- [react-trumbowyg](https://github.com/RD17/react-trumbowyg)
+- [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg)
 
 
 工具箱
@@ -198,14 +268,28 @@ Audio / Video
 - [m-dialog](https://github.com/react-component/m-dialog)
 
 
-UI
+UI Frameworks
 ---
 
 - [ant.design](https://ant.design/docs/react/introduce-cn)
 - [mobile.ant.design](http://mobile.ant.design)
+- [mobile-onsen](https://onsen.io/)
+- [mobile-reactionic](http://reactionic.github.io/)
 - [semantic-ui](https://react.semantic-ui.com/introduction)
 - [material-ui](http://www.material-ui.com/#/)
 - [Onsen UI - Cross-Platform HTML5 Hybrid App Framework](https://github.com/OnsenUI/OnsenUI)
+- [elemental-ui](http://elemental-ui.com/)
+- [react-ui](https://lobos.github.io/react-ui/0.7/#/alert?_k=k0stzp)
+- [UI components for Elasticsearch](http://www.searchkit.co/)
+- [react-mdl](https://tleunen.github.io/react-mdl/components/badge/)
+- [react-toolbox](http://react-toolbox.io)
+
+其他
+---
+
+- [React UI Components for macOS Sierra and Windows 10.](https://github.com/gabrielbull/react-desktop)
+- [ Build virtual reality (VR) experiences with A-Frame and React. ](https://github.com/ngokevin/aframe-react)
+- [拥有权限管理-A frontend framework for building admin SPAs on top of REST services](https://github.com/marmelab/admin-on-rest)
 
 综合
 ---
