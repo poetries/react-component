@@ -255,6 +255,10 @@ slider
 - [moment-更方便格式化日期](http://momentjs.com/docs/) 
 - [normalizr](https://github.com/paularmstrong/normalizr)
 
+图标
+---
+
+- [react-icons](https://react-icons.netlify.com/#/icons/io)
 
 移动端
 ---
